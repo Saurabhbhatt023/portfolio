@@ -2,7 +2,8 @@ import React from 'react'
 import Redux from "../assets/Redux.png"
 import Javascript from "../assets/Javascript.png"
 import  Tailwindcss from "../assets/Tailwindcss.png"
-// import reactImg from "../assets/react.png"
+import ReactIMG from "../assets/react.png"
+
 import html from "../assets/html.png"
 import Typescript from "../assets/Typescript.png.jpg"
 
@@ -41,6 +42,12 @@ const Experience = () => {
             } ,
             { 
                 id : 5 ,
+                src : ReactIMG ,
+                title : "React" ,
+                style: " shadow-yellow-500 "
+            } ,
+            { 
+                id : 6 ,
                 src : Typescript ,
                 title : "Typescript" ,
                 style: " shadow-yellow-500 "
