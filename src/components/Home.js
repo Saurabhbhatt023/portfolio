@@ -11,7 +11,7 @@ const Home = () => {
                         <h2 className='text-4xl sm-text-7xl font-bold text-white '> I'm a Full Stack Devloper</h2>
                          <p className='text-gray-500 py-4 max-w-md'>
 
-                     i  am freshers
+                     i  am  Saurabh bhatt
                          </p>
 
                           <div> 
